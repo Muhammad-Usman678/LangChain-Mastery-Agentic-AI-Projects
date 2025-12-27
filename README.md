@@ -10,7 +10,7 @@
 
 This repository is a hands-on journey into **Agentic AI** using LangChain.
 
-Instead of focusing only on theory, this project is designed around **practical, progressive notebooks** that demonstrate how real-world AI agents are built — from simple model invocation to advanced agentic systems with tools, structured outputs, and human-in-the-loop control.
+Instead of focusing only on theory, this project is designed around **practical, progressive notebooks** that demonstrate how real-world AI agents are built, from simple model invocation to advanced agentic systems with tools, structured outputs, and human-in-the-loop control.
 
 If you’re moving from *prompting LLMs* to *building reliable and controllable AI agents*, this repository is built for you.
 
@@ -105,5 +105,6 @@ This project manages dependencies using `uv` for speed and reliability.
 *   **Production Ready Patterns**: Middleware for token management and human review.
 
 ---
+
 
 
